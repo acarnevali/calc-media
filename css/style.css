@@ -1,0 +1,117 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    background-color: #2d3436;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    overflow-y: hidden !important; 
+    font-weight: bold;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:#fff;
+    margin-top: 15px;
+  }
+  
+  .page-subtitle {
+    color:#fff;
+    margin-top: 5px;
+  }
+  
+  
+
+  .notas {
+    color:#fff;
+    display: flex;
+    flex: 1;
+    margin-top: 4%;
+    margin-left: 4%;
+    align-items: center;
+  }
+
+  .resultadoNota {
+    display: center;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    color: #fff;
+  }
+
+  #nota1 {
+    width: 15rem;
+    height: 35px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    margin-left: 1%;
+    text-align: right;
+  } 
+
+  #nota2 {
+    width: 15rem;
+    height: 35px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    margin-left: 1%;
+    text-align: right;
+  } 
+
+  #nota3 {
+    width: 15rem;
+    height: 35px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    margin-left: 1%;
+    text-align: right;
+  } 
+
+  #nota4 {
+    width: 15rem;
+    height: 35px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    margin-left: 1%;
+    text-align: right;
+  } 
+
+  .btn-style {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border-color: transparent;
+    margin-top: 4px;
+    margin-left: 3px;
+    background-color: #4CAF50;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+  }
+
+  #notaFinal {
+    width: 15rem;
+    height: 35px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: right;
+  }
+
+  .resultadoNota {
+    color: #fff;
+    display: flex;
+    flex: 1;
+    align-items: center;
+   justify-content: center;
+    margin-left: 20%;
+    margin-top: -240px;
+  }
+
+ 
